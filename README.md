@@ -1,4 +1,4 @@
-# 3D-Printer-ECM-Mod
+Valentine ECM Mod
 ## TOXICITY WARNING
 ELECTROCHEMISTRY CAN BE DANGEROUS AND EVEN DEADLY. KNOW YOUR CHEMICAL PRODUCTS, WORK IN A WELL VENTILATED SPACE, AND WEAR PROPER PPE AT ALL TIMES. Machining of chromium containing alloys will produce hexavalent chromium which is just as scary as it sounds and has an extreme propensity to contaminate water and will GIVE YOU CANCER. Do not give yourself cancer, please.
 
